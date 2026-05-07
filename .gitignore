@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+state.json
+responses/
+run_summary.txt
+*.xlsx.tmp
+*.json.tmp
+.venv/
